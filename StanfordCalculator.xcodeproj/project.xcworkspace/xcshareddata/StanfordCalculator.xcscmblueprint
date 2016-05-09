@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0D9541473C94013A132702FFF4DB6C948F310C74",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "4D1265C1BF855D25A05E464E6B35013F3FFF92B3" : 0,
+    "0D9541473C94013A132702FFF4DB6C948F310C74" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3DD2B8DB-B30A-45C3-807E-044F869EDD51",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "4D1265C1BF855D25A05E464E6B35013F3FFF92B3" : "",
+    "0D9541473C94013A132702FFF4DB6C948F310C74" : "StanfordCalculator\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "StanfordCalculator",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "StanfordCalculator.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/univega14\/StanfordCalculator.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0D9541473C94013A132702FFF4DB6C948F310C74"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/univega14\/swift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4D1265C1BF855D25A05E464E6B35013F3FFF92B3"
+    }
+  ]
+}
